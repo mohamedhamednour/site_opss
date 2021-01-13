@@ -1,0 +1,85 @@
+.inpu{
+
+    width: 250px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    padding: 60px;
+}
+.input1{
+float: right;
+}
+.far{
+   
+    color: white;
+    font-size: 19px;
+}
+.fab{
+    margin-left: 26px;
+    margin-top: 20px;
+    color: white;
+    font-size: 26px;
+}
+.gh{
+    padding: 60px;
+    border: 1px solid rgb(245, 240, 240);
+    border-radius: 10px;
+}
+.ff{
+    background-image: url(../imgs/Rectangle\ 51@2x.png);
+    background-size: 100% 100%;
+    width: 560px;
+    height: 400px;
+   
+}
+.photo1{
+   
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+   padding: 10px;
+   margin-top: 100px;
+}
+.roww{
+    padding: 20px 10px 20px 10px;
+}
+.form-control{
+    background-color: rgb(158, 33, 33);
+    width: 400px;
+}
+.input-group{
+    margin-top:40px;
+}
+.input-group-text{
+    background-color: rgb(158, 33, 33);
+}
+.fas{
+    color: white;
+}
+.dan{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1% 6%;
+    margin-top: 60px;
+}
+.rectphoto{
+    width: 20px;
+    border-radius: 90px;
+}
+.asa{
+    color: white;
+    margin-top: 20x;
+    font-size: 20px;
+}
+.asa:hover{
+    text-decoration: none;
+    color: white;
+}
+.sizepho{
+    width: 200px;
+    height: 50px;
+    margin-top: 10px;
+    border-radius: 90px;
+    background-color: white;
+}
